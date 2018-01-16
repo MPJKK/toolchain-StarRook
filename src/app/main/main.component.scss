@@ -1,0 +1,31 @@
+:host{
+  width:30%;
+}
+
+main{
+  height:600px;
+  margin-right: 10px;
+  background-color: #555555;
+  padding:20px;
+}
+
+p{
+  color:white;
+  font-size: 1.4em;
+}
+
+.button{
+  width: 400px;
+  height: 70px;
+  border-radius: 10px;
+  background-color: darkcyan;
+  color:white;
+  padding: 10px 25px 10px 25px;
+  text-decoration: none;
+}
+
+.button:hover{
+  color: darkcyan;
+  background-color: white;
+  transition: 0.3s;
+}
